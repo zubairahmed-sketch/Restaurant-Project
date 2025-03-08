@@ -197,7 +197,7 @@ public class Customer extends JFrame implements ActionListener{
         f1.setResizable(false);
         f1.setSize(800, 600);
 
-    system.out.print("Hii");
+    
 
         f1.add(l);
         f1.add(l2);
