@@ -343,7 +343,6 @@ public class Customer extends JFrame implements ActionListener{
         JTableHeader header = table.getTableHeader();
         header.setBackground(Color.decode("#F04A00"));
         header.setForeground(Color.WHITE);
-        System.out.print("HII");
     }
 
 
