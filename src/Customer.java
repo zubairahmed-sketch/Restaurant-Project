@@ -196,9 +196,6 @@ public class Customer extends JFrame implements ActionListener{
         f1.setLayout(null);
         f1.setResizable(false);
         f1.setSize(800, 600);
-
-    
-
         f1.add(l);
         f1.add(l2);
         f1.add(l3);
@@ -346,6 +343,7 @@ public class Customer extends JFrame implements ActionListener{
         JTableHeader header = table.getTableHeader();
         header.setBackground(Color.decode("#F04A00"));
         header.setForeground(Color.WHITE);
+        System.out.print("HII");
     }
 
 
