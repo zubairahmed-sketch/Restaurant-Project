@@ -84,28 +84,31 @@ This **Restaurant Management System** is a Java Swing desktop application with M
     Open the project in VS-Code or Eclipse
 
     Locate and run the main class (e.g., RestaurantLogin.java)
+   
   
-
+---
 
 🔮 Future Improvements
 
-    Generate printable PDF invoices
+   Generate printable PDF invoices
 
-    Add admin role for deeper control
+   Add admin role for deeper control
 
-    Include image thumbnails in menu
+   Include image thumbnails in menu
 
-    Role-based UI themes
+   Role-based UI themes
+    
 
-
+---
 
 📄 License
 
-    This project is open-source and available for educational use.
+   This project is open-source and available for educational use.
 
 
+---
 
 🙌 Developed By
-
-    [Zubair Ahmed]
-    Contributions are welcome. Fork, star ⭐, and share!
+   [Zubair Ahmed]
+   
+   Contributions are welcome. Fork, star ⭐, and share!
