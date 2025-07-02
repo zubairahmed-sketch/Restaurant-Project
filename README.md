@@ -42,16 +42,16 @@ This **Restaurant Management System** is a Java Swing desktop application with M
 ## 📸 Screenshots
 
 
-- ![Login Page](screenshots/)
-- ![SignUp Page](screenshots/)
-- ![Customer Portal](screenshots/)
-- ![Place Order](screenshots/)
-- ![Cancel Order](screenshots/)
-- ![Pay Bill](screenshots/)
-- ![Employee Portal](screenshots/)
-- ![Menu Portal](screenshots/)
-- ![Add Menu Item](screenshots/)
-- ![Update Item Price](screenshots/)
+- ![Login Page](screenshots/LoginPage.png)
+- ![SignUp Page](screenshots/SignUp Page.png)
+- ![Customer Portal](screenshots/CustomerPortal.png)
+- ![Place Order](screenshots/PlaceOrder.png)
+- ![Cancel Order](screenshots/CancelOrder.png)
+- ![Pay Bill](screenshots/PayBill.png)
+- ![Employee Portal](screenshots/EmployeePortal.png)
+- ![Menu Portal](screenshots/MenuPortal.png)
+- ![Add Menu Item](screenshots/AddNewItem.png)
+- ![Update Item Price](screenshots/UpdatePrice.png)
 
 
 ---
