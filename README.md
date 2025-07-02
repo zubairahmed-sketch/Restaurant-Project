@@ -43,7 +43,7 @@ This **Restaurant Management System** is a Java Swing desktop application with M
 
 
 - ![Login Page](screenshots/LoginPage.png)
-- ![SignUp Page](screenshots/SignUp Page.png)
+- ![SignUp Page](screenshots/SignUpPage.png)
 - ![Customer Portal](screenshots/CustomerPortal.png)
 - ![Place Order](screenshots/PlaceOrder.png)
 - ![Cancel Order](screenshots/CancelOrder.png)
